@@ -2,6 +2,7 @@
 وب دایرکتوری تیفا-لینکستان سایتها و وبلاگها http://dir.tifaa.com
 
 
+<a href="https://www.panikad.com/">آگهی رایگان</a><br>
 <a href="https://www.panikad.com/sites/">لیست سایت های ایرانی</a><br>
 
 
